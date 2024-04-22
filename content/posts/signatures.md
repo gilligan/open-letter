@@ -44,15 +44,9 @@ draft: false
 - Léana Chiang ([@leana8959](https://github.com/leana8959))
 - Noon van der Silk ([@silky](https://github.com/silky))
 - Artemis Tosini <me@artem.ist>
-- Abhiram <[@axelsilverdew](https://github.com/axelsilverdew)>
-- Hayden Young <hayden@hbjy.dev>
-- Nikodem Rabuliński ([@nrabulinski](https://github.com/nrabulinski))
-- Thomas "Diana" Depierre ([@DianaOlympos](https://github.com/DianaOlympos))
-- Matthias Schuster (@ShalokShalom)
 - brodavi (@brodavi)
-- Aria Nolan <aria@chytrid.org>
-- Kate Iykkes <https://github.com/saori-yuko>
 - Vera Aguilera Puerto ([@Zumorica](https://github.com/Zumorica))
+- Tobi ([@gilligan](https://github.com/gilligan))
 
 <!-- Insert your signature above here, using the format above.>
 
